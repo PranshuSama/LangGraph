@@ -1,0 +1,5 @@
+langgraph
+langchain
+langchain-groq
+openai
+urllib3<2
