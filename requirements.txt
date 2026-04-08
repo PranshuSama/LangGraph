@@ -1,5 +1,7 @@
 langgraph
 langchain
 langchain-groq
+langchain-huggingface
+sentence-transformers
 openai
 urllib3<2
